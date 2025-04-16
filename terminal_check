@@ -1,0 +1,10 @@
+{
+        "amount":500.0,
+        "cardNumber":"4111111111111111",
+        "cardExpMonth":"12",
+        "cardExpYear":"25",
+        "cardCvv":"123",
+        "reference":"ORDER_123",
+        "email":"test@gmail.com",
+        "currency":"NGN"
+}
